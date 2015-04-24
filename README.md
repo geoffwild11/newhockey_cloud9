@@ -1,7 +1,8 @@
 # NEWHockey.com Website
 
 ## Current section of Rails Tutorial
-- Now on section 5.1
+- Now on section 5.3 (Layout Links)
+- https://www.railstutorial.org/book/filling_in_the_layout#sec-layout_links
 
 ## NorthEast Wisconsin Hockey
 I'm creating this site for my own personal interest and growth. I love hockey, and I reall like webdev, so let's see about combining the two. 
