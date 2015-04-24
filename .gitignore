@@ -1,5 +1,7 @@
 *.rbc
 
+/spring
+
 capybara-*.html
 
 .rspec
