@@ -1,7 +1,7 @@
 # NEWHockey.com Website
 
 ## Current section of Rails Tutorial
-- Now on section 3.6 (The excercises)
+- Now on section 5.1
 
 ## NorthEast Wisconsin Hockey
 I'm creating this site for my own personal interest and growth. I love hockey, and I reall like webdev, so let's see about combining the two. 
