@@ -202,7 +202,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootstrap-sass (= 3.2.0.0)
+  bootstrap-sass (~> 3.2.0)
   byebug (= 3.4.0)
   coffee-rails (= 4.1.0)
   guard-minitest (= 2.3.1)
