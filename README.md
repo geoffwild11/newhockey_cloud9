@@ -1,7 +1,7 @@
 # NEWHockey.com Website
 
 ## Current section of Rails Tutorial
-- Now on section 5.3 (Layout Links)
+- Now on section 7 (Sign Up)
 - https://www.railstutorial.org/book/filling_in_the_layout#sec-layout_links
 
 ## NorthEast Wisconsin Hockey
