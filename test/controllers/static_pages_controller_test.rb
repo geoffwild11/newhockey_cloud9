@@ -3,7 +3,7 @@ require 'test_helper'
 class StaticPagesControllerTest < ActionController::TestCase
   
   def setup
-    @base_title = "NEWHockey"
+    @base_title = "WiscoHockey"
   end
   
   test "should get home" do
@@ -27,13 +27,13 @@ class StaticPagesControllerTest < ActionController::TestCase
   test "should get teams" do
     get :teams
     assert_response :success
-    assert_select 'title', "Teams | NEWHockey"
+    assert_select 'title', "Teams | #{@base_title}"
   end
   
   test "should get contact" do
     get :contact
     assert_response :success
-    assert_select 'title', "Contact | NEWHockey"
+    assert_select 'title', "Contact | #{@base_title}"
   end
 
 end
